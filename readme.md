@@ -2,8 +2,7 @@
 
 # Live Preview 
 
-https://
-
+https://work-studio-clone-zia.netlify.app/
 
 # Tech I Used
 
@@ -20,6 +19,7 @@ https://
 <img src="./demo.png" style="width: 100%">
 
 <br>
+
 # Original Site
 
 https://works.studio/
